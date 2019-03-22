@@ -13,7 +13,6 @@
 0.0.0.0 a.m.shuhuangge.org
 0.0.0.0 a.mct01.com
 0.0.0.0 a.qiao024.com
-0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.tanx.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.union.mi.com
@@ -233,8 +232,6 @@
 0.0.0.0 api.dreamfull.cn
 0.0.0.0 api.g2.junfull.com
 0.0.0.0 api.iimedia.cn
-0.0.0.0 api.io.mi.com
-0.0.0.0 api.jr.mi.com
 0.0.0.0 api.koudaikj.com
 0.0.0.0 api.mp.uc.cn
 0.0.0.0 api.newad.ifeng.com
@@ -270,7 +267,6 @@
 0.0.0.0 app.wapx.cn
 0.0.0.0 app02.nodes.gslb.mi-idc.com
 0.0.0.0 appc.baidu.com
-0.0.0.0 appdownload.alicdn.com
 0.0.0.0 appgift.sinaapp.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 apppic.yingyongbei.com
@@ -793,7 +789,6 @@
 0.0.0.0 ifs.tanx.com
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
-0.0.0.0 image.box.xiaomi.com
 0.0.0.0 image.p4p.sogou.com
 0.0.0.0 image.zzd.sm.cn
 0.0.0.0 images.fastclick.net
@@ -977,16 +972,11 @@
 0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 mg.games.sina.com.cn
 0.0.0.0 mi.gdt.qq.com
-0.0.0.0 migc.g.mi.com
-0.0.0.0 migcreport.g.mi.com
 0.0.0.0 migrate.driveapi.micloud.xiaomi.net
 0.0.0.0 minfo.wps.cn
 0.0.0.0 mini.cpc.sogou.com
 0.0.0.0 mini2015.qq.com
 0.0.0.0 mipcache.bdstatic.com
-0.0.0.0 mis.g.mi.com
-0.0.0.0 mishop.pandora.xiaomi.com
-0.0.0.0 mivideo.g.mi.com
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 mm.dopa.com.cn
@@ -1000,7 +990,6 @@
 0.0.0.0 moka.inte.sogoucdn.com
 0.0.0.0 new.api.ad.xiaomi.com
 0.0.0.0 nsclick.baidu.com
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 ota.cdn.pandora.xiaomi.com
 0.0.0.0 p.twitter.com
 0.0.0.0 package.box.xiaomi.com
