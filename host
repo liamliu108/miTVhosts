@@ -193,8 +193,6 @@
 0.0.0.0 afptrack.alimama.com
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 agoodm.m.taobao.com
-0.0.0.0 ai.m.taobao.com
-0.0.0.0 ai.taobao.com
 0.0.0.0 ai.yimg.jp
 0.0.0.0 aider-res.meizu.com
 0.0.0.0 aka-cdn.adtechus.com
@@ -405,12 +403,9 @@
 0.0.0.0 click.bes.baidu.com
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 click.jebe.renren.com
-0.0.0.0 click.mz.simba.taobao.com
 0.0.0.0 click.qianqian.com
-0.0.0.0 click.simba.taobao.com
 0.0.0.0 click.stat.hao.360.cn
 0.0.0.0 click.tanx.com
-0.0.0.0 click.tz.simba.taobao.com
 0.0.0.0 click.uve.mobile.sina.cn
 0.0.0.0 click.wrating.com
 0.0.0.0 clicks.beap.bc.yahoo.com
@@ -613,7 +608,6 @@
 0.0.0.0 drmcmm.baidu.com
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.brand.sogou.com
-0.0.0.0 dsp.simba.taobao.com
 0.0.0.0 dsp.youdao.com
 0.0.0.0 ds-pc.admsger.com
 0.0.0.0 dspcm.brand.sogou.com
@@ -935,7 +929,6 @@
 0.0.0.0 m.kubiqq.com
 0.0.0.0 m.lu.sogou.com
 0.0.0.0 m.qpic.cn
-0.0.0.0 m.simba.taobao.com
 0.0.0.0 m.sjzhushou.com
 0.0.0.0 m.uc123.com
 0.0.0.0 m.uczzd.cn
@@ -958,7 +951,6 @@
 0.0.0.0 mb.yidianzixun.com
 0.0.0.0 mbs.hao.360.cn
 0.0.0.0 mc.yandex.ru
-0.0.0.0 mclick.simba.taobao.com
 0.0.0.0 md.1drj.com
 0.0.0.0 md.he9630.com
 0.0.0.0 mdap.alipaylog.com
