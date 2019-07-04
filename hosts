@@ -1,5 +1,9 @@
 127.0.0.1 XiaoQiang
 127.0.0.1 localhost
+127.0.0.1 smartisan.com
+127.0.0.1 os.smartisan.com
+127.0.0.1 yun.smartisan.com
+127.0.0.1 www.smartisan.com
 127.0.0.1 79t2.admaster.com.cn
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 ad.api.3g.youku.com
@@ -19,7 +23,6 @@
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 api.danmu.tv.sohu.com
 127.0.0.1 api.game.letvstore.com
-127.0.0.1 api.io.mi.com
 127.0.0.1 api.yuedu.iqiyi.com
 127.0.0.1 assistant.pandora.xiaomi.com
 127.0.0.1 b.netcheck.gallery.pandora.xiaomi.com
