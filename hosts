@@ -1,6 +1,6 @@
-# 不用米家app可以注释掉前两行
-# 米家需要 127.0.0.1 api.io.mi.com
-# 米家需要 127.0.0.1 device.io.mi.com
+# 米家app需要前两行,不用米家可以取消注释
+# 127.0.0.1 api.io.mi.com
+# 127.0.0.1 device.io.mi.com
 
 127.0.0.1 519332DA.rtc.youme.im
 127.0.0.1 ad.doubleclick.net
