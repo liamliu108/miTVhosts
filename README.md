@@ -1,6 +1,9 @@
 20220810更新
 刷了老毛子Padavan系统,好用,信号好了五万多倍...
 内置hosts修改器:高级设计-内部网络Lan-DHCP服务器-自定义配置文件 "hosts"
+小米电视也刷了1.2.27 参考 https://bugxia.com/1180.html
+再没广告了,高兴
+
 
 # miTVhosts
 
