@@ -104,7 +104,6 @@
 127.0.0.1 t3.a.market.xiaomi.com
 127.0.0.1 t4.a.market.xiaomi.com
 127.0.0.1 t5.a.market.xiaomi.com
-127.0.0.1 t7z.cupid.ptqy.gitv.tv
 127.0.0.1 tat.pandora.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
@@ -119,7 +118,18 @@
 127.0.0.1 upgrade.xl9.xunlei.com
 127.0.0.1 userapi.hpplay.com.cn
 127.0.0.1 v.admaster.com.cn
-127.0.0.1 video.market.xiaomi.com
 127.0.0.1 vipauth.hpplay.cn
 127.0.0.1 vipsdkauth.hpplay.cn
 127.0.0.1 vv.play.aiseet.atianqi.com
+
+# 爱奇艺（银河奇异果）
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+# Gitv
+127.0.0.1 video.market.xiaomi.com
+# 腾讯（云视听极光）
+127.0.0.1 sv-video.play.aiseet.atianqi.com
+# 芒果TV
+127.0.0.1 mobaliyun.res.mgtv.com
+# 优酷（CIBN酷喵）
+127.0.0.1 pl.cp31.ott.cibntv.net
+127.0.0.1 vali-ugc.cp31.ott.cibntv.net
